@@ -1,0 +1,39 @@
+_repo: The-Ranch-Girls-at-Home-Again_34928
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Coleman, Ralph P. (Ralph Pallen)
+    alias: Coleman, Ralph Pallen
+    birthdate: 1892
+    deathdate: 1968
+    gutenberg_agent_id: '6922'
+    url: http://www.gutenberg.org/2009/agents/6922
+covers:
+- cover_type: archival
+  image_path: 34928-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    birthdate: 1876
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_issued: '2011-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34928'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Wyoming -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Courtship -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Ranch life -- Juvenile fiction'
+title: The Ranch Girls at Home Again
+url: http://www.gutenberg.org/ebooks/34928
